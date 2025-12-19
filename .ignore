@@ -1,0 +1,5 @@
+# si tienes cosas temporales
+*.log
+*.tmp
+.cache/
+
